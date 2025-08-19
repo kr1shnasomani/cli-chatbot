@@ -1,4 +1,4 @@
-<h1 align="center">chatbot: Powered by Free LLM APIs</h1>
+<h1 align="center">cli-chatbot: Powered by Free LLM APIs</h1>
 
 <p align="center" style="margin-top:30px;">
   <img src="https://www.shutterstock.com/image-vector/chat-bot-icon-virtual-smart-600nw-2478937555.jpg" height="200cm"/>
@@ -17,8 +17,7 @@
    ```
    git clone https://github.com/kr1shnasomani/chatbot.git
    cd chatbot
-   ```
-   
+   ```   
 8. Paste your OpenRouter API key in `main.py` (line 3)
 9. Select a LLM's "id" from the `free-models.json` and paste it into `main.py` (line 4)
 10. Now run the `main.py` script and you will be able to talk to your chatbot in the terminal
